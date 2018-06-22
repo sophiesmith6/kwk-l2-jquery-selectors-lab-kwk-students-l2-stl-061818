@@ -7,3 +7,7 @@ function h1Selector() {
 function liInOlSelector() {
   return $('ol li');
 }
+
+function linkSelector() {
+  return $('#box4.box5 a')
+}
