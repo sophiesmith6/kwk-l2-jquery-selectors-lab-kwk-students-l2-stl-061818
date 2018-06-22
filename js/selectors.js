@@ -13,5 +13,5 @@ function linkSelector() {
 }
 
 function imageSelector() {
-  return $('img')
+  return $(':img')
 }
