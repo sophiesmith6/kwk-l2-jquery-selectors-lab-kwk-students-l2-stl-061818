@@ -15,3 +15,7 @@ function linkSelector() {
 function imageSelector() {
   return $(':cat sleeping')
 }
+
+function checkboxInputSelector() {
+  return $()
+}
