@@ -13,7 +13,7 @@ function linkSelector() {
 }
 
 function imageSelector() {
-  return $('image:cat sleeping')
+  return $('cat sleeping:image')
 }
 
 function checkboxInputSelector() {
